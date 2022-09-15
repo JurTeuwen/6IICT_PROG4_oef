@@ -2,7 +2,7 @@
 # Testen kan MBV de oproepen onder iedere oefeningen.
 # Tip: gebruik CTRL + / om meerdere lijnen in/uit commentaar te zetten.
 
-# Deze websites geven meer info over de verschillende methodes van strings:
+# Deze websites geven meer info over de verschillende methodes van lijsten:
 # https://www.w3schools.com/python/python_ref_list.asp
 # https://www.programiz.com/python-programming/methods/list
 
@@ -11,7 +11,7 @@ def doorzoek_lijst(lijst, waarde):
 
         >>> print( doorzoek_lijst([1,4,2,5,9], 9) ) --> 4
     """
-    return None
+    return lijst.index(waarde)
 
 # print( doorzoek_lijst([1,4,2,5,9], 9) )
 # print( doorzoek_lijst([1,4,2,5,9], 4) )
@@ -36,11 +36,13 @@ def doorzoek_telefoonboek(boek, persoon):
 
         >>> print( doorzoek_telefoonboek(boek, "Kor Neel") ) --> "+32 453 231456"
     """
+    
+
     return None
 
 # print( doorzoek_telefoonboek(boek, "Kor Neel") )
 # print( doorzoek_telefoonboek(boek, "Jan Janssen") )
-# print( doorzoek_telefoonboek(boek, "Piet Neel") )
+# print( doorzoek_telefoonboek(boek, "Piet :Neel") )
 
 def voeg_toe_telefoonboek(boek, persoon, nummer):
     """ return het boek, met de persoon/nummer eraan toegevoegd 

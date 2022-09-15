@@ -2,9 +2,15 @@
 # Testen kan MBV de oproepen onder iedere oefeningen.
 # Tip: gebruik CTRL + / om meerdere lijnen in/uit commentaar te zetten.
 
+
+
+from cmath import pi
+from math import floor
+
+
 def grootste(x,y,z):
     """ return het grootste van de drie getallen """
-    return None
+    return max(x, y, z)
 
 # print( grootste(1,2,3) )
 # print( grootste(9,6,3) )
@@ -12,7 +18,7 @@ def grootste(x,y,z):
 
 def grootste_lijst(lijst):
     """ return het grootste getal uit een lijst van getallen """
-    return None
+    return max(lijst)
 
 # print( grootste_lijst([2, 6, 8, 23, 12, 2]) )
 # print( grootste_lijst([4, 6, -3, 10, 5, 3]) )
@@ -29,7 +35,16 @@ def temperatuur_voorspelling(temp):
 
         Maak gebruik van f-strings om de boodschap op te stellen. 
     """
-    return None
+    if temp < 0:
+        return f"Het vriest bij {temp} graden."
+    if temp < 10:
+        return f"Het is koud bij {temp} graden."
+    if temp < 20:
+        return f"Het is fris bij {temp} graden."
+    if temp < 30:
+        return f"Het is normaal bij {temp} graden."
+    if temp > 30:
+        return f"Het is heet bij {temp} graden."
 
 # print( temperatuur_voorspelling(-3) )
 # print( temperatuur_voorspelling(8) )
@@ -44,16 +59,20 @@ def temperatuur_conversie():
 
         Tip: denk goed na over het datatype van je variabelen.
     """
-    return None
+    Fahrenheit= int(input("Temperatuur in Fahrenheit"))
+    Celsius = (Fahrenheit-32)/1.8
+    return Celsius
 
-# temperatuur_conversie()
+# print(temperatuur_conversie())
 
 def berekeningen(x,y):
     """ return zowel de som als het verschil van x en y 
     
         >>> print( berekeningen(10,40) ) --> (50, -30)
     """
-    return None
+    som = x+y
+    verschil = x-y
+    return som, verschil
 
 # print( berekeningen(10, 40) )
 # print( berekeningen(4, 44) )
@@ -67,9 +86,10 @@ def omtrek(straal):
         De functie moet ook werken met een negatief getal als argument.
         Maak in dit geval het getal positief.
     """
-    return None
+    A = floor(2*pi*straal)
+    return A
 
-# print( omtrek(4) )
-# print( omtrek(-8) )
-# print( omtrek(2) )
+print( omtrek(4) )
+print( omtrek(-8) )
+print( omtrek(2) )
     

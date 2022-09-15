@@ -19,8 +19,8 @@ import pygame
 # ]
 
 # Het staat je vrij om deze aan te passen.
-HOOGTE = 100
-BREEDTE = 100
+HOOGTE = 120
+BREEDTE = 120
 
 # De breedte en hoogte van iedere cel in pixels. Je mag deze aanpassen.
 CEL_HOOGTE = 5
@@ -36,12 +36,10 @@ def maak_rij_nul(breedte):
 
         >>> print( maak_rij_nul(3) ) --> [0, 0, 0]
     """
-    lijst = []
-
+    lijst_maak_rij_nul = []
     for i in range(breedte):
-        lijst.append(0)
-
-    return lijst
+        lijst_maak_rij_nul.append(0)
+    return lijst_maak_rij_nul
 
 
 def maak_veld_nul(hoogte, breedte):
@@ -59,12 +57,10 @@ def maak_veld_nul(hoogte, breedte):
              Het aantal oproepen is gelijk aan de waarde van hoogte.
              Zie ook reeks_4 voor het invoegen van een lijst in een lijst.
     """
-    lijst_2D = []
-
-    for i in range(hoogte):
-        lijst_2D.append( maak_rij_nul(breedte) )
-
-    return lijst_2D
+    veld = []
+    for aantal in range(hoogte):
+        veld.append(maak_rij_nul(breedte))
+    return veld
 
 def maak_veld_nul_levend(veld, kans_levend):
     """ return een veld, waarbij een aantal van de cellen een waarde 1 bevatten 
@@ -89,11 +85,15 @@ def maak_veld_nul_levend(veld, kans_levend):
                                                           [0, 0, 1]
                                                          ]
     """
-    for index_rij, rij in enumerate(veld):
-        for index_cel, cel in enumerate(rij):
-            if kans_levend > random.random():
-                veld[index_rij][index_cel] = 1
+    for lijst in veld:
+        for i in range(len(lijst)):
+            getal = random.random()
+            if getal <= kans_levend:
+                del lijst[i]
+                lijst.insert(i, 1)
     return veld
+                
+
 
 def get_links(veld, y, x):
     """ return de waarde van de cel links van de huidige cel 
@@ -112,9 +112,11 @@ def get_links(veld, y, x):
         >>> print( get_links(veld, 0, 1) ) --> 1
         >>> print( get_links(veld, 1, 0) ) --> 0
     """
+    rij = veld[y]
     if x == 0:
         return 0
-    return veld[y][x-1]
+    else:
+        return rij[x-1]
 
 
 def get_rechts(veld, y, x):
@@ -126,18 +128,19 @@ def get_rechts(veld, y, x):
         Als de huidige cel zich op de rechtergrens bevindt, return 0.
 
         veld = [
-            [1, 2, 3],
-            [4, 5, 6],
+            [1, 2],
+            [3, 4]
         ]
 
         >>> print( get_rechts(veld, 1, 1) ) --> 0
         >>> print( get_rechts(veld, 0, 1) ) --> 0
-        >>> print( get_rechts(veld, 1, 0) ) --> 2
+        >>> print( get_rechts(veld, 1, 0) ) --> 4
     """
-    if x == len(veld[0])-1:
+    rij = veld[y]
+    if x == len(rij)-1:
         return 0
-    return veld[y][x+1]
-
+    else:
+        return rij[x+1]
 
 def get_boven(veld, y, x):
     """ return de waarde van de cel boven de huidige cel 
@@ -156,7 +159,11 @@ def get_boven(veld, y, x):
         >>> print( get_boven(veld, 0, 1) ) --> 0
         >>> print( get_boven(veld, 1, 0) ) --> 1
     """
-    return None
+    if y==0:
+        return 0
+    else:
+        rij = veld[y-1]
+        return rij[x]
 
 
 def get_onder(veld, y, x):
@@ -176,7 +183,11 @@ def get_onder(veld, y, x):
         >>> print( get_onder(veld, 0, 1) ) --> 4
         >>> print( get_onder(veld, 1, 0) ) --> 0
     """
-    return None
+    if y==len(veld)-1:
+        return 0
+    else:
+        rij = veld[y+1]
+        return rij[x]
 
 
 def get_linksboven(veld, y, x):
@@ -197,7 +208,11 @@ def get_linksboven(veld, y, x):
         >>> print( get_linksboven(veld, 0, 1) ) --> 0
         >>> print( get_linksboven(veld, 1, 0) ) --> 0
     """
-    return None
+    if y==0 or x==0:
+        return 0
+    else:
+        rij = veld[y-1]
+        return rij[x-1]
 
 
 def get_rechtsboven(veld, y, x):
@@ -215,11 +230,15 @@ def get_rechtsboven(veld, y, x):
         ]
 
         >>> print( get_rechtsboven(veld, 1, 1) ) --> 0
-        >>> print( get_rechtsboven(veld, 0, 1) ) --> 2
-        >>> print( get_rechtsboven(veld, 1, 0) ) --> 0
+        >>> print( get_rechtsboven(veld, 0, 1) ) --> 0
+        >>> print( get_rechtsboven(veld, 1, 0) ) --> 2
     """
-    return None
-
+    rij = veld[y]
+    if y==0 or x==len(rij)-1:
+        return 0
+    else:
+        rij = veld[y-1]
+        return rij[x+1]
 
 def get_linksonder(veld, y, x):
     """ return de waarde van de cel linksonder de huidige cel 
@@ -239,8 +258,11 @@ def get_linksonder(veld, y, x):
         >>> print( get_linksonder(veld, 0, 1) ) --> 3
         >>> print( get_linksonder(veld, 1, 0) ) --> 0
     """
-    return None
-
+    if y==len(veld)-1 or x==0:
+        return 0
+    else:
+        rij = veld[y+1]
+        return rij[x-1]
 
 def get_rechtsonder(veld, y, x):
     """ return de waarde van de cel rechtsonder de huidige cel 
@@ -260,8 +282,12 @@ def get_rechtsonder(veld, y, x):
         >>> print( get_rechtsonder(veld, 0, 1) ) --> 0
         >>> print( get_rechtsonder(veld, 1, 0) ) --> 0
     """
-    return None
-
+    rij = veld[y]
+    if y==len(veld)-1 or x==len(rij)-1:
+        return 0
+    else:
+        rij = veld[y+1]
+        return rij[x+1]
 
 def tel_buren(veld, y, x):
     """ return het aantal naburige cellen dat leeft
@@ -284,7 +310,25 @@ def tel_buren(veld, y, x):
         >>> print( tel_buren(veld, 0, 0) ) --> 2
         >>> print( tel_buren(veld, 2, 0) ) --> 1
     """
-    return None
+    teller = 0
+    if get_links(veld, y, x) == 1:
+        teller = teller+1
+    if get_linksboven(veld, y, x) == 1:
+        teller = teller+1
+    if get_boven(veld, y, x) == 1:
+        teller = teller+1
+    if get_rechtsboven(veld, y, x) == 1:
+        teller = teller+1
+    if get_rechts(veld, y, x) == 1:
+        teller = teller+1
+    if get_rechtsonder(veld, y, x) == 1:
+        teller = teller+1
+    if get_onder(veld, y, x) == 1:
+        teller = teller+1
+    if get_linksonder(veld, y, x) == 1:
+        teller = teller+1
+    return teller
+
 
 def leeft_of_sterft(veld, y, x):
     """ return True als de huidige cel zal leven, False als het sterft 
@@ -316,7 +360,18 @@ def leeft_of_sterft(veld, y, x):
         In dit voorbeeld blijven enkel de cel linksboven en middenboven levend (1),
         de rest gaat dood (0). Dit gebeurt in update_veld() OBV de returnde boolean.
     """
-    return None
+    plaats = veld[y][x]
+    if plaats == 1:
+        if (1 < tel_buren(veld, y, x) < 4):
+            return True
+        else:
+            return False
+    if plaats == 0:
+        if tel_buren(veld, y, x) ==3:
+            return True
+        else:
+            return False
+
 
 # Je hoeft deze functie niet op te stellen. Overloop hem wel. Snap je wat er gebeurt?
 # Zo nee, vraag om extra uitleg.
@@ -376,5 +431,5 @@ def main():
         clock.tick(60)
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
