@@ -36,9 +36,10 @@ def doorzoek_telefoonboek(boek, persoon):
 
         >>> print( doorzoek_telefoonboek(boek, "Kor Neel") ) --> "+32 453 231456"
     """
-    
-
-    return None
+    for i in boek:
+        naam = i[0]
+        if naam == persoon:
+            return i[1]
 
 # print( doorzoek_telefoonboek(boek, "Kor Neel") )
 # print( doorzoek_telefoonboek(boek, "Jan Janssen") )
@@ -61,7 +62,19 @@ def voeg_toe_telefoonboek(boek, persoon, nummer):
                 ["Piet Dirkx", "123]
             ]
     """
-    return None
+    nieuw_nummer = []
+    nieuw_nummer.append(persoon)
+    nieuw_nummer.append(nummer)
+
+    for nummers in boek:
+        if nieuw_nummer == nummers:
+            return "gegevens reeds in boek"
+        nummer_in_boek= nummers[1]
+        if nummer_in_boek == nummer:
+            return "Nummer al bezet"
+        else:
+            boek.append(nieuw_nummer)
+            return boek
 
 # print( voeg_toe_telefoonboek(boek, "Piet Dirkx", "123") )
 # print( voeg_toe_telefoonboek(boek, "Piet Joris", "+32 483 313220") )
