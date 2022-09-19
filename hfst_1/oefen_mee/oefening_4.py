@@ -8,3 +8,11 @@ engels_nederlands = { "last":"laatste", "week":"week", "the":"de",
 "sheds":"schuren" }
 
 zin = input("Geef een zin in het engels: ")
+nederlands_zin_lijst = []
+zin_in_lijst = zin.split()
+for woord in zin_in_lijst:
+    nederlands_woord = engels_nederlands[woord]
+    nederlands_zin_lijst.append(nederlands_woord)
+
+nederlands_zin = " ".join(nederlands_zin_lijst)
+print(nederlands_zin)

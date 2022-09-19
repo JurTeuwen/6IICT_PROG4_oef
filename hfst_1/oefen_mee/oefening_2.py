@@ -7,5 +7,11 @@ Oplossing:
 boodschappen_dict = {'appel': 9, 'doerian': 3, 'banaan': 3, 'kers': 3, 'mango': 1}
 
 """
-
 boodschappen_dict = {}
+
+for fruit in boodschappen_lijst:
+    if fruit not in boodschappen_dict:
+        x = boodschappen_lijst.count(fruit)
+        boodschappen_dict[fruit] = x
+
+print(boodschappen_dict)
