@@ -13,10 +13,10 @@ for dict in csv_reader:                                                 #doorloo
                 value2 = str(abs(value1))                               #maak het getal positief en dan weer een string
             else:                                                       #anders
                 value2 = value                                          #hou het getal zo
-            nieuwe_dict[key]= value                                     #zet het in de nieuwe dict
+            nieuwe_dict[key]= value2                                     #zet het in de nieuwe dict
 
         if key == "Name":                                               #als de key "Name" is
-            kleine_letter = value[0].lower() + value[1:]                #maak de eerste letter een kleine letter en hou de rest zo
+            kleine_letter = value.lower()               #maak de eerste letter een kleine letter en hou de rest zo
             nieuwe_dict[key] = kleine_letter                            #zet het in de nieuwe dict
     eruptions_ld.append(nieuwe_dict)                                    #voeg nieuwe dicht toe aan lijst
 fp.close()                                                              # Na sluiten is CSV niet meer bruikbaar

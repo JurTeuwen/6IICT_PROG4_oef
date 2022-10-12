@@ -19,7 +19,7 @@ for rij in csv_reader: # doorloop de rijen
         jaar_correct = 'Year'
     if rij[4] != 'Name':
         naam = rij[4]
-        naam_correct = naam[0].lower() + naam[1:] 
+        naam_correct = naam.lower()
     else:
         naam_correct = 'Name'
     eruptions_ll.append([jaar_correct,naam_correct])# voeg deze rijen toe aan de lege lijst
