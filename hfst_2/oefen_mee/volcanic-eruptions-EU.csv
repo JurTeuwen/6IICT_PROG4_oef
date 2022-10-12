@@ -18,15 +18,15 @@
 17;50;;;Ambrym;Vanuatu-SW Pacific;Vanuatu;-16.25;168.12;1334;Pyroclastic shield;6;
 18;60;;;Bona-Churchill;Alaska-E;United States;61.38;-141.75;5005;Stratovolcano;6;
 19;79;8;25;Vesuvius;Italy;Italy;40.821;14.426;1281;Complex volcano;5;2100
-"20;200;;;""Arhab; Harra of"";Arabia-S;Yemen;15.63;44.08;3100;Volcanic field;;"
+20;200;;;""Arhab; Harra of"";Arabia-S;Yemen;15.63;44.08;3100;Volcanic field;;
 21;230;;;Taupo;New Zealand;New Zealand;-38.82;176;760;Caldera;6;
 22;240;;;Ksudach;Kamchatka;Russia;51.8;157.53;1079;Stratovolcano;6;
 23;350;;;Augustine;Alaska-SW;United States;59.37;-153.42;1252;Lava dome;;
 24;416;;;Krakatau;Indonesia;Indonesia;-6.102;105.423;813;Caldera;;
 25;450;;;Ilopango;El Salvador;El Salvador;13.672;-89.053;450;Caldera;6;30000
-"26;500;;;""Arhab; Harra of"";Arabia-S;Yemen;15.63;44.08;3100;Volcanic field;;"
+26;500;;;""Arhab; Harra of"";Arabia-S;Yemen;15.63;44.08;3100;Volcanic field;;
 27;590;;;San Salvador;El Salvador;El Salvador;13.736;-89.286;1893;Stratovolcano;;
-"28;640;;;""Uwayrid; Harrat"";Arabia-W;Saudi Arabia;27.08;37.25;1900;Volcanic field;2;"
+28;640;;;""Uwayrid; Harrat"";Arabia-W;Saudi Arabia;27.08;37.25;1900;Volcanic field;2;
 29;653;;;Dakataua;New Britain-SW Pac;Papua New Guinea;-5.056;150.108;400;Caldera;6;
 30;683;;;Rabaul;New Britain-SW Pac;Papua New Guinea;-4.271;152.203;688;Pyroclastic shield;6;
 31;710;;;Pago;New Britain-SW Pac;Papua New Guinea;-5.58;150.52;742;Caldera;6;
@@ -61,7 +61,7 @@
 60;1341;5;19;Hekla;Iceland-S;Iceland;63.98;-19.7;1491;Stratovolcano;3;
 61;1357;;;Katla;Iceland-S;Iceland;63.63;-19.05;1512;Subglacial volcano;4;
 62;1362;6;5;Oraefajokull;Iceland-SE;Iceland;64;-16.65;2119;Stratovolcano;5;220
-"63;1375;;;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;"
+63;1375;;;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;
 64;1376;;;Kelut;Java;Indonesia;-7.93;112.308;1731;Stratovolcano;3;
 65;1385;;;Kelut;Java;Indonesia;-7.93;112.308;1731;Stratovolcano;3;
 66;1389;12;1;Hekla;Iceland-S;Iceland;63.98;-19.7;1491;Stratovolcano;3;
@@ -375,7 +375,7 @@
 374;1907;8;4;Alayta;Africa-NE;Ethiopia;12.88;40.57;1501;Shield volcano;2;
 375;1907;9;28;Lewotobi;Lesser Sunda Is;Indonesia;-8.53;122.775;1703;Stratovolcano;2;1
 376;1907;10;6;Savai'i;Samoa-SW Pacific;Samoa;-13.612;-172.525;1858;Shield volcano;;
-"377;1909;4;28;""Cameroon; Mt."";Africa-W;Cameroon;4.203;9.17;4095;Stratovolcano;2;"
+377;1909;4;28;""Cameroon; Mt."";Africa-W;Cameroon;4.203;9.17;4095;Stratovolcano;2;
 378;1909;9;;Semeru;Java;Indonesia;-8.108;112.92;3676;Stratovolcano;2;221
 379;1910;3;20;Taupo;New Zealand;New Zealand;-38.82;176;760;Caldera;;1
 380;1910;7;25;Usu;Hokkaido-Japan;Japan;42.53;140.83;731;Stratovolcano;2;1
@@ -385,7 +385,7 @@
 384;1911;11;3;Piparo;Trinidad;Trinidad;10;-61;140;Mud volcano;;
 385;1911;11;8;Semeru;Java;Indonesia;-8.108;112.92;3676;Stratovolcano;3;
 386;1912;9;6;Novarupta;Alaska Peninsula;United States;58.27;-155.16;841;Caldera;6;2
-"387;1912;12;3;Nyamuragira;Africa-C;""Congo; DRC"";-1.408;29.2;3058;Shield volcano;3;20"
+387;1912;12;3;Nyamuragira;Africa-C;""Congo; DRC"";-1.408;29.2;3058;Shield volcano;3;20
 388;1913;1;20;Colima;Mexico;Mexico;19.514;-103.62;3850;Stratovolcano;4;13
 389;1913;3;14;Awu;Sangihe Is-Indonesia;Indonesia;3.67;125.5;1320;Stratovolcano;2;
 390;1913;5;29;Asama;Honshu-Japan;Japan;36.4;138.53;2560;Complex volcano;1;1
@@ -397,7 +397,7 @@
 396;1914;;;Aoba;Vanuatu-SW Pacific;Vanuatu;-15.4;167.83;1496;Shield volcano;;100
 397;1916;3;3;Tungurahua;Ecuador;Ecuador;-1.467;-78.442;5023;Stratovolcano;4;
 398;1916;7;3;Stromboli;Italy;Italy;38.789;15.213;926;Stratovolcano;3;
-"399;1917;1;1;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;3;"
+399;1917;1;1;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;3;
 400;1917;4;1;Okataina;New Zealand;New Zealand;-38.12;176.5;1111;Lava dome;1;2
 401;1917;4;;Calbuco;Chile-S;Chile;-41.326;-72.614;2003;Stratovolcano;3;
 402;1917;6;7;San Salvador;El Salvador;El Salvador;13.736;-89.286;1893;Stratovolcano;3;325
@@ -412,7 +412,7 @@
 411;1920;7;25;Merapi;Java;Indonesia;-7.542;110.442;2947;Stratovolcano;3;33
 412;1920;10;29;Izalco;El Salvador;El Salvador;13.813;-89.633;1950;Stratovolcano;3;
 413;1921;11;26;Nasu;Honshu-Japan;Japan;37.12;139.97;1917;Stratovolcano;;1
-"414;1923;3;2;""Cendres; Ile des"";SE Asia;Vietnam;10.158;109.014;-20;Submarine volcanoes;2;"
+414;1923;3;2;""Cendres; Ile des"";SE Asia;Vietnam;10.158;109.014;-20;Submarine volcanoes;2;
 415;1923;3;11;Papandayan;Java;Indonesia;-7.32;107.73;2665;Stratovolcano;1;1
 416;1923;6;;Tangkubanparahu;Java;Indonesia;-6.77;107.6;2084;Stratovolcano;;3
 417;1923;7;1;Kirishima;Kyushu-Japan;Japan;31.93;130.87;1700;Shield volcano;2;1
@@ -446,7 +446,7 @@
 445;1936;2;;Asama;Honshu-Japan;Japan;36.4;138.53;2560;Complex volcano;3;2
 446;1937;2;9;Llaima;Chile-C;Chile;-38.692;-71.729;3125;Stratovolcano;2;3
 447;1937;5;29;Rabaul;New Britain-SW Pac;Papua New Guinea;-4.271;152.203;688;Pyroclastic shield;4;507
-"448;1938;1;28;Nyamuragira;Africa-C;""Congo; DRC"";-1.408;29.2;3058;Shield volcano;1;"
+448;1938;1;28;Nyamuragira;Africa-C;""Congo; DRC"";-1.408;29.2;3058;Shield volcano;1;
 449;1938;5;9;Bandai;Honshu-Japan;Japan;37.6;140.08;1819;Stratovolcano;;2
 450;1938;6;5;Mayon;Luzon-Philippines;Philippines;13.257;123.685;2462;Stratovolcano;2;
 451;1938;7;16;Asama;Honshu-Japan;Japan;36.4;138.53;2560;Complex volcano;1;
@@ -455,11 +455,11 @@
 454;1939;10;13;Dieng Volc Complex;Java;Indonesia;-7.2;109.92;2565;Complex volcano;1;10
 455;1940;6;20;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;2;1
 456;1940;7;12;Miyake-jima;Izu Is-Japan;Japan;34.08;139.53;815;Stratovolcano;2;11
-"457;1940;7;24;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;2;"
+457;1940;7;24;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;2;
 458;1941;7;13;Asama;Honshu-Japan;Japan;36.4;138.53;2560;Complex volcano;2;1
 459;1941;9;21;Semeru;Java;Indonesia;-8.108;112.92;3676;Stratovolcano;2;
 460;1943;2;20;Michoacan-Guanajuato;Mexico;Mexico;19.48;-102.25;3860;Cinder cone;4;3
-"461;1943;4;13;""Azul; Cerro"";Galapagos;Ecuador;-.9;-91.42;1690;Shield volcano;3;1"
+461;1943;4;13;""Azul; Cerro"";Galapagos;Ecuador;-.9;-91.42;1690;Shield volcano;3;1
 462;1944;3;27;Vesuvius;Italy;Italy;40.821;14.426;1281;Complex volcano;2;27
 463;1944;6;10;Cleveland;Aleutian Is;United States;52.82;-169.95;1730;Stratovolcano;3;1
 464;1944;6;23;Usu;Hokkaido-Japan;Japan;42.53;140.83;731;Stratovolcano;2;1
@@ -541,8 +541,8 @@
 540;1966;1;13;Tinakula;Santa Cruz Is-SW Pac;Solomon Is.;-10.38;165.8;851;Stratovolcano;3;
 541;1966;4;26;Kelut;Java;Indonesia;-7.93;112.308;1731;Stratovolcano;4;215
 542;1966;8;12;Awu;Sangihe Is-Indonesia;Indonesia;3.67;125.5;1320;Stratovolcano;4;39
-"543;1966;8;14;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;4;"
-"544;1967;7;8;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;3;"
+543;1966;8;14;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;4;
+544;1967;7;8;""Lengai; Ol Doinyo"";Africa-E;Tanzania;-2.751;35.902;2890;Stratovolcano;3;
 545;1967;8;31;Semeru;Java;Indonesia;-8.108;112.92;3676;Stratovolcano;3;3
 546;1967;12;4;Deception Island;Antarctica;Antarctica;-62.97;-60.65;576;Caldera;3;
 547;1968;4;21;Mayon;Luzon-Philippines;Philippines;13.257;123.685;2462;Stratovolcano;3;6
@@ -553,18 +553,18 @@
 552;1969;8;26;Narugo;Honshu-Japan;Japan;38.73;140.73;462;Caldera;;1
 553;1970;3;2;Campi Flegrei;Italy;Italy;40.827;14.139;458;Caldera;;3
 554;1970;5;5;Hekla;Iceland-S;Iceland;63.98;-19.7;1491;Stratovolcano;3;
-"555;1971;8;12;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;3;5"
+555;1971;8;12;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;3;5
 556;1971;9;6;Tinakula;Santa Cruz Is-SW Pac;Solomon Is.;-10.38;165.8;851;Stratovolcano;2;
 557;1971;9;14;Fuego;Guatemala;Guatemala;14.473;-90.88;3763;Stratovolcano;3;10
 558;1971;10;26;La Palma;Canary Is;Spain;28.58;-17.83;2426;Stratovolcano;2;
 559;1971;10;29;Villarrica;Chile-C;Chile;-39.42;-71.93;2847;Stratovolcano;2;15
 560;1971;12;27;Kusatsu-Shirane;Honshu-Japan;Japan;36.62;138.55;2176;Stratovolcano;;6
-"561;1972;6;9;""Fournaise; Piton de la"";Indian O-W;Reunion;-21.229;55.713;2631;Shield volcano;2;3"
+561;1972;6;9;""Fournaise; Piton de la"";Indian O-W;Reunion;-21.229;55.713;2631;Shield volcano;2;3
 562;1972;10;2;Hakone;Honshu-Japan;Japan;35.22;139.02;1438;Complex volcano;;2
 563;1972;10;9;Ritter Island;New Guinea-NE of;Papua New Guinea;-5.52;148.121;140;Stratovolcano;1;
 564;1973;1;27;Vestmannaeyjar;Iceland-S;Iceland;63.43;-20.28;279;Submarine volcano;3;1
 565;1973;1;;Paluweh;Lesser Sunda Is;Indonesia;-8.32;121.708;875;Stratovolcano;3;
-"566;1973;4;5;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;;2"
+566;1973;4;5;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;;2
 567;1973;12;5;Iliwerung;Lesser Sunda Is;Indonesia;-8.54;123.59;1018;Complex volcano;2;2
 568;1974;2;11;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;3;4
 569;1974;6;17;Sakura-jima;Kyushu-Japan;Japan;31.58;130.67;1117;Stratovolcano;3;3
@@ -581,7 +581,7 @@
 580;1976;8;31;Semeru;Java;Indonesia;-8.108;112.92;3676;Stratovolcano;2;119
 581;1976;9;15;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;2;1
 582;1976;11;25;Merapi;Java;Indonesia;-7.542;110.442;2947;Stratovolcano;2;29
-"583;1977;1;10;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;1;"
+583;1977;1;10;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;1;
 584;1977;4;5;Karthala;Indian O-W;Comoros;-11.75;43.38;2361;Shield volcano;0;
 585;1977;4;27;Krafla;Iceland-NE;Iceland;65.73;-16.78;650;Caldera;1;
 586;1977;8;2;Kliuchevskoi;Kamchatka;Russia;56.057;160.638;4835;Stratovolcano;3;1
@@ -607,10 +607,10 @@
 606;1981;6;30;Mayon;Luzon-Philippines;Philippines;13.257;123.685;2462;Stratovolcano;;200
 607;1981;9;5;Paluweh;Lesser Sunda Is;Indonesia;-8.32;121.708;875;Stratovolcano;2;
 608;1981;;;Vilyuchik;Kamchatka;Russia;52.68;158.3;2173;Stratovolcano;;
-"609;1982;3;29;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;1879"
-"610;1982;4;4;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;33"
+609;1982;3;29;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;1879
+610;1982;4;4;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;33
 611;1982;5;17;Galunggung;Java;Indonesia;-7.25;108.05;2168;Stratovolcano;4;68
-"612;1982;5;27;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;1"
+612;1982;5;27;""Chichon; El"";Mexico;Mexico;17.36;-93.228;1150;Tuff cone;5;1
 613;1983;3;8;Kliuchevskoi;Kamchatka;Russia;56.057;160.638;4835;Stratovolcano;2;1
 614;1983;7;23;Colo [Una Una];Sulawesi-Indonesia;Indonesia;-.17;121.608;507;Stratovolcano;4;
 615;1983;8;17;Iliwerung;Lesser Sunda Is;Indonesia;-8.54;123.59;1018;Complex volcano;1;
@@ -645,18 +645,18 @@
 644;1990;6;24;Rabaul;New Britain-SW Pac;Papua New Guinea;-4.271;152.203;688;Pyroclastic shield;;6
 645;1990;7;19;Santa Maria;Guatemala;Guatemala;14.756;-91.552;3772;Stratovolcano;3;4
 646;1990;10;19;Aso;Kyushu-Japan;Japan;32.88;131.1;1592;Caldera;2;1
-"647;1990;11;21;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;;1"
+647;1990;11;21;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;;1
 648;1990;11;25;Kelut;Java;Indonesia;-7.93;112.308;1731;Stratovolcano;;4
 649;1991;6;3;Unzen;Kyushu-Japan;Japan;32.75;130.3;1500;Complex volcano;1;43
 650;1991;6;15;Pinatubo;Luzon-Philippines;Philippines;15.13;120.35;1486;Stratovolcano;6;350
 651;1991;6;;Mutnovsky;Kamchatka;Russia;52.453;158.195;2322;Complex volcano;;1
 652;1991;7;3;Karthala;Indian O-W;Comoros;-11.75;43.38;2361;Shield volcano;2;
-"653;1991;8;8;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;5;"
+653;1991;8;8;""Hudson; Cerro"";Chile-S;Chile;-45.9;-72.97;1905;Stratovolcano;5;
 654;1991;10;24;Lokon-Empung;Sulawesi-Indonesia;Indonesia;1.358;124.792;1580;Stratovolcano;1;1
 655;1991;12;14;Etna;Italy;Italy;37.734;15.004;3350;Stratovolcano;2;
 656;1992;1;21;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;2;2
 657;1992;3;18;Dieng Volc Complex;Java;Indonesia;-7.2;109.92;2565;Complex volcano;;1
-"658;1992;4;10;""Negro; Cerro"";Nicaragua;Nicaragua;12.506;-86.702;728;Cinder cone;3;11"
+658;1992;4;10;""Negro; Cerro"";Nicaragua;Nicaragua;12.506;-86.702;728;Cinder cone;3;11
 659;1992;5;11;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;1;6
 660;1992;7;5;Marapi;Sumatra;Indonesia;-.381;100.473;2891;Complex volcano;2;1
 661;1992;7;12;Pinatubo;Luzon-Philippines;Philippines;15.13;120.35;1486;Stratovolcano;1;6
@@ -717,7 +717,7 @@
 716;2001;8;5;Merapi;Java;Indonesia;-7.542;110.442;2947;Stratovolcano;2;2
 717;2001;10;20;Stromboli;Italy;Italy;38.789;15.213;926;Stratovolcano;2;1
 718;2002;1;3;Karangetang [Api Siau];Sangihe Is-Indonesia;Indonesia;2.78;125.48;1784;Stratovolcano;3;
-"719;2002;1;17;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;1;100"
+719;2002;1;17;Nyiragongo;Africa-C;""Congo; DRC"";-1.52;29.25;3470;Stratovolcano;1;100
 720;2002;8;28;Etna;Italy;Italy;37.734;15.004;3350;Stratovolcano;3;
 721;2002;11;3;Reventador;Ecuador;Ecuador;-.078;-77.656;3562;Stratovolcano;4;
 722;2002;12;30;Stromboli;Italy;Italy;38.789;15.213;926;Stratovolcano;;
@@ -739,7 +739,7 @@
 738;2007;3;;Manam;New Guinea-NE of;Papua New Guinea;-4.1;145.061;1807;Stratovolcano;4;4
 739;2007;4;18;Huila;Colombia;Colombia;2.92;-76.05;5365;Stratovolcano;;
 740;2007;7;7;Salak;Java;Indonesia;-6.72;106.73;2211;Stratovolcano;;6
-"741;2007;9;30;""Tair; Jebel at"";Red Sea;Yemen;15.7;41.742;244;Stratovolcano;;7"
+741;2007;9;30;""Tair; Jebel at"";Red Sea;Yemen;15.7;41.742;244;Stratovolcano;;7
 742;2008;5;2;Chaiten;Chile-S;Chile;-42.833;-72.646;962;Caldera;;1
 743;2008;8;8;Kasatochi;Aleutian Is;United States;52.18;-175.5;314;Stratovolcano;3;
 744;2008;8;22;Tungurahua;Ecuador;Ecuador;-1.467;-78.442;5023;Stratovolcano;3;2
