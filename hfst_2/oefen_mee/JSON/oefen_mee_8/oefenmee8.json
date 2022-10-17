@@ -1,9 +1,9 @@
 {
     "maandag": ["school","percussie"],
     "dinsdag": "school",
-    "woensdag": ["school","basketbal"],
+    "woensdag": ["school", "basketbal"],
     "donderdag": "school",
-    "vrijdag": ["werken", "basketbal"],
+    "vrijdag": ["school", "basketbal"],
     "zaterdag": "werken",
     "zondag": ["percussie", "familie-uitstap"]
 }
