@@ -1,4 +1,4 @@
-;Year;Month;Day;Name;Location;Country;Latitude;Longitude;Elevation;Type;VEI;Deaths
+;Year;Month;Day;Name;Location;Country;Latitude;Longitude;Elevation;Type;VEI;Deaths;
 1;-1750;;;Veniaminof;Alaska Peninsula;United States;56.17;-159.38;2507;Stratovolcano;6;
 2;-1645;;;Aniakchak;Alaska Peninsula;United States;56.88;-158.17;1341;Caldera;6;
 3;-1610;;;Santorini;Greece;Greece;36.404;25.396;329;Shield volcano;7;
