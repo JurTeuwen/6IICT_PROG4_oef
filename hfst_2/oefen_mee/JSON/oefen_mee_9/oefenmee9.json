@@ -1,0 +1,38 @@
+{
+    "quiz": {
+        "sport": {
+            "vraag1": {
+                "vraag": "Welke sport speel je met een pluim? ",
+                "opties": [
+                    "Badminton",
+                    "Tennis",
+                    "Bowling",
+                    "Voetbal"
+                ],
+                "antwoord": "Badminton"
+            }
+        },
+        "wiskunde": {
+            "vraag1": {
+                "vraag": "5 + 7 = ?",
+                "opties": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "antwoord": "12"
+            },
+            "vraag2": {
+                "vraag": "12 - 8 = ?",
+                "opties": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "antwoord": "4"
+            }
+        }
+    }
+}

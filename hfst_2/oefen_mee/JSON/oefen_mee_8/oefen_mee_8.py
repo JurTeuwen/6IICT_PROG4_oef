@@ -1,4 +1,3 @@
-from calendar import week
 import json
 
 # Pad is afhankelijk van locatie appel.json
