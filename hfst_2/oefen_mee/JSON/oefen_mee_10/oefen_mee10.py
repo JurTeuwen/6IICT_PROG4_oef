@@ -3,7 +3,7 @@
 import copy,json,pygame,random
 
 
-fp = open("oefen_mee10.json", "r")
+fp = open("hfst_2/oefen_mee/JSON/oefen_mee_10/oefenmee10.json", "r")
 settings = json.load(fp)
 fp.close()
 
