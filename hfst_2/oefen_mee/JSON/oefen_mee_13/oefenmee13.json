@@ -1,0 +1,58 @@
+[
+    {
+        "Country": "Belgium",
+        "Cases": 4511590,
+        "Status": "confirmed",
+        "Date": "2022-09-18",
+        "nieuwe_besmettingen": 0
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4511590,
+        "Status": "confirmed",
+        "Date": "2022-09-19",
+        "nieuwe_besmettingen": 0
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4517212,
+        "Status": "confirmed",
+        "Date": "2022-09-20",
+        "nieuwe_besmettingen": 5622
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4517212,
+        "Status": "confirmed",
+        "Date": "2022-09-21",
+        "nieuwe_besmettingen": 0
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4525931,
+        "Status": "confirmed",
+        "Date": "2022-09-22",
+        "nieuwe_besmettingen": 8719
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4525931,
+        "Status": "confirmed",
+        "Date": "2022-09-23",
+        "nieuwe_besmettingen": 0
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4525931,
+        "Status": "confirmed",
+        "Date": "2022-09-24",
+        "nieuwe_besmettingen": 0
+    },
+    {
+        "Country": "Belgium",
+        "Cases": 4525931,
+        "Status": "confirmed",
+        "Date": "2022-09-25",
+        "nieuwe_besmettingen": 0
+    }
+]
