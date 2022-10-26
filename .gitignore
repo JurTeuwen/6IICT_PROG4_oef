@@ -174,4 +174,4 @@ cython_debug/
 # Add own ignores here
 !/README.md/
 
-hfst_2/oefen_mee/JSON/venv_pygame
+hfst_2/oefen_mee/venv
