@@ -175,3 +175,4 @@ cython_debug/
 !/README.md/
 
 hfst_2/oefen_mee/venv
+hfst_2/taak/matplotlib
