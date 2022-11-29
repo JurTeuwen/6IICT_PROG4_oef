@@ -35,7 +35,8 @@ for blad in bladeren:                                                   # overlo
 fp.close()                                                              # Na sluiten is CSV niet meer bruikbaar
 
 # Maak de linkse staafdiagram.
-plt.subplot(1,2,1)  
+plt.subplot(1,2,1)
+plt.ylim((0,4500))
 plt.bar(1, lijst_y_zwarte_achtergrond[0], width=0.8, align='center', color='black', label="geen blad")
 plt.bar(2, lijst_y_zwarte_achtergrond[1], width=0.8, align='center', color='red', label="rood blad")
 plt.bar(3, lijst_y_zwarte_achtergrond[2], width=0.8, align='center', color='orange', label="oranje blad")
@@ -49,6 +50,7 @@ plt.ylabel("luminantie in lux")
 
 # Maak de rechtse staafdiagram
 plt.subplot(1,2,2)
+plt.ylim((0,4500))
 plt.bar(1, lijst_y_witte_achtergrond[0], width=0.8, align='center', color='black', label="geen blad")
 plt.bar(2, lijst_y_witte_achtergrond[1], width=0.8, align='center', color='red', label="rood blad")
 plt.bar(3, lijst_y_witte_achtergrond[2], width=0.8, align='center', color='orange', label="oranje blad")
