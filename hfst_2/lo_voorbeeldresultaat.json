@@ -1,0 +1,19 @@
+{
+    "toren": {
+        "aantal": 2,
+        "beweging": [
+            "links",
+            "rechts",
+            "boven",
+            "onder"
+        ],
+        "waarde_pionnen": 5,
+        "engelse_naam": "rook",
+        "andere_namen": [
+            "Toring",
+            "Torra",
+            "Rukhkh",
+            "Top"
+        ]
+    }
+}
