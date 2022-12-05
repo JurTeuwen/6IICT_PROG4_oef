@@ -1,0 +1,764 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 173002,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301700986"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6XnTftNvSj8mvYxoYB6a5j"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6XnTftNvSj8mvYxoYB6a5j",
+            "id": "6XnTftNvSj8mvYxoYB6a5j",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Limburgs Volkslied (Waar In\u2019t Bronsgroen Eikenhout)",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/27ed7b92cc92a193e757997a48becc3d6e33c109?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:6XnTftNvSj8mvYxoYB6a5j"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 164675,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301500827"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3Fd4CLxcpFXRTWkvBMufsp"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3Fd4CLxcpFXRTWkvBMufsp",
+            "id": "3Fd4CLxcpFXRTWkvBMufsp",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Als Ze Me Kust",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/39ad7679d8f91fb7b20074116d6660724be60be6?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:3Fd4CLxcpFXRTWkvBMufsp"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 175494,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301400668"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7hJHw0APOl5A5bV4xOi5Y2"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7hJHw0APOl5A5bV4xOi5Y2",
+            "id": "7hJHw0APOl5A5bV4xOi5Y2",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Leuker Met Twee",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/57d9ab2b97c2decb833b2e3688dddc56a4cfeedc?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7hJHw0APOl5A5bV4xOi5Y2"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 186295,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301700988"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/03yxoBMCjIa09I9QhmG0Rk"
+            },
+            "href": "https://api.spotify.com/v1/tracks/03yxoBMCjIa09I9QhmG0Rk",
+            "id": "03yxoBMCjIa09I9QhmG0Rk",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Wat Doe Je Dan",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/2c939876147db0d246e9d4d79eb7c3cf3857708a?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:03yxoBMCjIa09I9QhmG0Rk"
+        },
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27GmSx8KrgX58aHbWkx9BW"
+                },
+                "href": "https://api.spotify.com/v1/albums/27GmSx8KrgX58aHbWkx9BW",
+                "id": "27GmSx8KrgX58aHbWkx9BW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27325ddfe758bf20269d64e27c1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0225ddfe758bf20269d64e27c1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485125ddfe758bf20269d64e27c1",
+                        "width": 64
+                    }
+                ],
+                "name": "Deel Van Ons Wij",
+                "release_date": "2017-10-17",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:27GmSx8KrgX58aHbWkx9BW"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 209743,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301701011"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1aK65ino0JtXaPJ572kPkG"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1aK65ino0JtXaPJ572kPkG",
+            "id": "1aK65ino0JtXaPJ572kPkG",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Deel Van Ons Wij",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/f78a08e0a3a436aac0ed4ae8c40f6de4ada52e51?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:1aK65ino0JtXaPJ572kPkG"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 207019,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301700987"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6WVZGcAFELc12DBNSv5nR9"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6WVZGcAFELc12DBNSv5nR9",
+            "id": "6WVZGcAFELc12DBNSv5nR9",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Deel Van Ons Wij",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f6ef9abd7ed81e46b9732988941db104edaf457?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:6WVZGcAFELc12DBNSv5nR9"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 130785,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301600887"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4qRa93eEhL3uaZkHqzEugH"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4qRa93eEhL3uaZkHqzEugH",
+            "id": "4qRa93eEhL3uaZkHqzEugH",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Als Ze Me Kust (Remix)",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/15a6cac9909f7f1d1d5b6266e4898ce2a61498a8?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:4qRa93eEhL3uaZkHqzEugH"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 198001,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301500721"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3KB5wYGapGP5lSsag9QBtD"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3KB5wYGapGP5lSsag9QBtD",
+            "id": "3KB5wYGapGP5lSsag9QBtD",
+            "is_local": false,
+            "is_playable": true,
+            "name": "He Jij",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a0e5b9abebdb49a13dfe1fb56a0f902f1f158ba?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:3KB5wYGapGP5lSsag9QBtD"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 197354,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301700985"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0hULPwJyCAryHUaEpdzgDW"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0hULPwJyCAryHUaEpdzgDW",
+            "id": "0hULPwJyCAryHUaEpdzgDW",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Het Leven Lacht Je Toe",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c2de25eb165f9a1f0f54ccbd8691e72335c2704?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:0hULPwJyCAryHUaEpdzgDW"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                        "id": "15x1sKugh3vsyFDj5ooa0c",
+                        "name": "Maarten Cox",
+                        "type": "artist",
+                        "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0BV6iGl7fMKSsD3j3HTtQ8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0BV6iGl7fMKSsD3j3HTtQ8",
+                "id": "0BV6iGl7fMKSsD3j3HTtQ8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2b6f0e68d82561ce6e79aa1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2b6f0e68d82561ce6e79aa1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2b6f0e68d82561ce6e79aa1",
+                        "width": 64
+                    }
+                ],
+                "name": "Op Weg",
+                "release_date": "2017-10-12",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:0BV6iGl7fMKSsD3j3HTtQ8"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/15x1sKugh3vsyFDj5ooa0c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/15x1sKugh3vsyFDj5ooa0c",
+                    "id": "15x1sKugh3vsyFDj5ooa0c",
+                    "name": "Maarten Cox",
+                    "type": "artist",
+                    "uri": "spotify:artist:15x1sKugh3vsyFDj5ooa0c"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 171487,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BEY301700990"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/14T2mzw9I2hk9Gp8j36hZI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/14T2mzw9I2hk9Gp8j36hZI",
+            "id": "14T2mzw9I2hk9Gp8j36hZI",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Onweerstaanbaar",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f84009ce17ef8f173ea5972599c49ba20e63014?cid=1aeee54be7564debabb38b00d955924a",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:14T2mzw9I2hk9Gp8j36hZI"
+        }
+    ]
+}

@@ -7,7 +7,13 @@ Zet de waarde van de key "access_token" (de zeer lange string),
 in de variabele wachtwoord. (Idem aan oefen mee 3)
 """
 
-wachtwoord = "Vervang door waarde van de key 'access_token'."
+fp = open("hfst_2\spotify_api\certificatie.json", "r")
+info = json.load(fp)
+fp.close()
+
+for key, value in info.items():
+    if key == "access_token":
+        wachtwoord = value
 
 """ Oefen mee 7:
 Stel zelf de request op. Baseer je op voorgaande bestanden en de documentatie.
@@ -19,7 +25,7 @@ headers = {
 artist_id = '15x1sKugh3vsyFDj5ooa0c'
 url = f"https://api.spotify.com/v1/artists/{artist_id}/top-tracks?market=BE"
 
-beste_liedjes = "Vervang door correcte request.get"
+beste_liedjes = requests.get(url, headers=headers).text
 beste_liedjes = json.loads(beste_liedjes)
 
 """ Oefen mee 8:
@@ -27,7 +33,9 @@ Zet de variabele lied in een JSON-bestand lied.json.
 
 Welke artiest heb je net opgehaald?
 """
-
+fp = open(r"hfst_2\spotify_api\beste_liedjes.json", "w")
+json.dump(beste_liedjes, fp)
+fp.close()
 """ Oefen mee 9:
 Vul de lijst van lijsten overzicht met info over de liedjes (baseer je op de header)
 """

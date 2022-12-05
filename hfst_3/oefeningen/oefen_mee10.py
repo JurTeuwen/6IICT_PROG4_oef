@@ -11,9 +11,13 @@ def schaak_info(info):
                   De engelse naam is {stuk_info['engelse_naam']}. 
                   Ze bewegen {stuk_info['beweging']}"""
         print(zin)
-        
-fp = open("oefen_mee10.json", "r")
-info = json.load(fp)
-schaak_info(info)
 
-fp.close()
+try:
+    fp = open("hfst_3\oefeningen\oefen_mee10.py", "r")
+    info = json.load(fp)
+    schaak_info(info)
+except FileNotFoundError:
+    print("bestand niet gevonden. Controleer of het bestand bestaat en de pad klopt")
+
+else:
+    fp.close()
