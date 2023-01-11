@@ -16,7 +16,10 @@ label_6 = tk.Label(master=venster, text= " ")
 
 # Label toevoegen aan de master (in dit geval venster).
 label_1.grid(row=0, column=0)
+label_4.grid(row=1, column=0)
+label_5.grid(row=2, column=0)
 label_2.grid(row=3, column=0)
+label_6.grid(row=4, column=0)
 label_3.grid(row=5, column=0)
 
 # Maak de GUI zichtbaar op de computer.
