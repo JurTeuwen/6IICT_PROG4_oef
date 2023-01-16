@@ -6,17 +6,42 @@ getal1 = 0
 getal2 = 0
 operator = '0'
 uitrekenen = False
-clear = False
 # Maak een lege GUI aan.
 venster = tk.Tk()
 def getal(getal):
-    global getal1
-    global getal2
-    global operator
-    global clear
-    global uitrekenen
-    print(getal)
-    print(operator)
+    global getal1, getal2, operator, clear, uitrekenen
+    veld.insert(tk.END, getal)
+def plus_of_min(plus_min):
+    global getal1, getal2, operator, clear, uitrekenen
+    operator=plus_min
+    if operator == "+" or operator == "-":
+        getal1=veld.get()
+        veld.delete(0, tk.END)
+def uitkomst(uitkomst):
+    global getal1, getal2, operator, clear, uitrekenen
+    uitrekenen=uitkomst
+    if uitrekenen == True:
+        getal2=veld.get()
+        veld.delete(0, tk.END)
+        if operator == "+":
+            resultaat = int(getal1)+int(getal2)
+        if operator == "-":
+            resultaat = int(getal1)-int(getal2)
+        veld.insert(tk.END, resultaat)
+        getal1 = 0
+        getal2 = 0
+        operator = '0'
+        uitrekenen = False
+
+def clr(clr):
+    global getal1, getal2, operator,uitrekenen
+    if clr == True:
+        veld.delete(0, tk.END)
+        getal1 = 0
+        getal2 = 0
+        operator = '0'
+        uitrekenen = False
+
 # Label aanmaken.
     # master: geef aan tot welke GUI het label behoort.
     # text: boodschap van het label.
@@ -63,16 +88,20 @@ getalfunctie = partial(getal,0)
 knop10 = tk.Button(master=venster, text="0", width=5, command=getalfunctie)
 knop10.grid(row=4, column=0)
 
-knop11 = tk.Button(master=venster, text="+", width=5)
+plus_min_functie = partial(plus_of_min,"+")
+knop11 = tk.Button(master=venster, text="+", width=5, command=plus_min_functie)
 knop11.grid(row=4, column=1)
 
-knop12 = tk.Button(master=venster, text="-", width=5)
+plus_min_functie = partial(plus_of_min,"-")
+knop12 = tk.Button(master=venster, text="-", width=5, command=plus_min_functie)
 knop12.grid(row=4, column=2)
 
-knop13 = tk.Button(master=venster, text="=", width=5)
+uitkomstfunctie = partial(uitkomst,True)
+knop13 = tk.Button(master=venster, text="=", width=5, command=uitkomstfunctie)
 knop13.grid(row=5, column=0)
 
-knop14 = tk.Button(master=venster, text="clr", width=12)
+clearfunctie = partial(clr,True)
+knop14 = tk.Button(master=venster, text="clr", width=12, command=clearfunctie)
 knop14.grid(row=5, column=1, columnspan=2)
 
 # Maak de GUI zichtbaar op de computer.
