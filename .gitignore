@@ -176,3 +176,5 @@ cython_debug/
 
 hfst_2/oefen_mee/venv
 hfst_2/taak/matplotlib
+yolov3_tiny.weights
+yolov3.weights
