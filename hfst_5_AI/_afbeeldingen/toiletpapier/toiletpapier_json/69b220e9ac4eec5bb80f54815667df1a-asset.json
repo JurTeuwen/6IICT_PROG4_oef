@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "69b220e9ac4eec5bb80f54815667df1a",
+        "name": "toiletpapier_jur_4_spiegel.jpg",
+        "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_4_spiegel.jpg",
+        "size": {
+            "width": 4032,
+            "height": 3024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ed7B1IYWO",
+            "type": "RECTANGLE",
+            "tags": [
+                "toiletpapier"
+            ],
+            "boundingBox": {
+                "height": 2780.9361565772524,
+                "width": 2830.9787234042556,
+                "left": 869.4894707862368,
+                "top": 135.82980086955618
+            },
+            "points": [
+                {
+                    "x": 869.4894707862368,
+                    "y": 135.82980086955618
+                },
+                {
+                    "x": 3700.4681941904923,
+                    "y": 135.82980086955618
+                },
+                {
+                    "x": 3700.4681941904923,
+                    "y": 2916.7659574468084
+                },
+                {
+                    "x": 869.4894707862368,
+                    "y": 2916.7659574468084
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

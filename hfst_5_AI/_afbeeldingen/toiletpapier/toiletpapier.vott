@@ -6,7 +6,7 @@
         "description": "map met foto's van toiletpapier",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDc4NmNiYjAxYzAwM2I3NDdhOGQzYzVlNjIwNWYwMzY4OTUxNzc0ZjlmOTE4ZTAzZDhhN2RlOWJlMzNjYzZhYjdkZmRjYjgwMGIxMDg0ZDlhYzQ0NzAwZWM1YTRmY2NlZmIwZGVjNjM1YWExZWI4NmY4MjMxZWFhY2FhMTgxNGYwNjJlOTYzNGFlOTAwZDhkNjM4MmE4Y2I4NTg3NWQ1ODkzY2U3ZTRjZGNjZTEwNzVhNjZjNmM5NDZmMDU3NWViMWI1YjQ4NDRlN2RkZjM5NWE3OGFhMGI3MzdhYmI1Y2UiLCJpdiI6ImQxNjU0NWIzMmQ5NjI5OGI1MDM3ZGZmMmQ0MDVkOTQwOWViZjc1MTc0OWM3ZmZhMCJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDkyYWVkYzZlNWNjNzk4ZjEyOGIyYTUwZDhlY2Y5NTViNjZmZDMyZmQzMmJlYWQyZjYxMWJjZTE5MWY4YjVmMmVmY2YwMzhmMWE1ODljMzc3ODhjYTA3YWUwNzhiMDJhMWU5NzcyMTZjNDQ1ZmU2NTAyMzZhMDBhN2Q1NThjYTg4MTcyYTQyODZmNjFlNzUxYTBhMTMxODkzOTIzMzY2NjRmYzlmZTRiODdmZWExMWMzYzEzMzI1OTI0YzRkYzY0NWI4MmUwZDQ3ODE3NDY4ODRlODEzODI4YWU1MzU5MTMiLCJpdiI6IjUwMTBmNTQyNGIwYzdlNDZhNDQxNTE5N2JiZjQzYTAyNDhkMzcyOTVhMDYwOTUyZSJ9"
         },
         "id": "jmi0ybnmF"
     },
@@ -15,7 +15,7 @@
         "description": "map met foto's van toiletpapier",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWVkMzcxODQxMjliYzU0ODFhOWMxMTg1YjIxYWRmZmVhNThjMWQxODY2ZTMxZWZjMTkyZjI0M2I4ZGI4YjJmN2QyOTRjZWM2MjQ2M2ExMmNjNDI2ODI3NTZmNDc0ZmE0ZWJlZTg1N2RiY2I5NTBiYmU1ZmY2ODQ5NDIwYzYyMTAyY2M3ZWJmZTgyMWMxOGIzZmJhZTI3NDM4YjE5Njc0MDFjYjgwZTE5NzQ4ODJhZTg0MmZmMzFkZWUzMGQ3ZWM1MzAyZjlkYjg4ZTcyYWRlMDY3NTVlZDU2MDQ5MWJmNmYiLCJpdiI6ImFiMjBlNzUxNDc2NTgyMDZhZjg1YjU5ZGM0ZWQ3YjU0YzQ2YjcyN2E0YmMyOWU1MyJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTI0NmJiZDFjMTc0M2I0YjZhMTZiMWVjMDMxZTJmMTVjYzMzMmIzOWZjZTY5MWYxNzVhZWJiMzI5MmFkZTYxNjE1NzllNDc3YTMyZGM4YzY3MTVkMzhjMmIyZGIzODYxMTQ5MmMwODVkODNhODZkMjBkMmY0MWQyOGVjMWYxOTU5OTk0ZWRjMDg4Y2NhNzNkN2EwNDdkZWQ0NzJkODk1NzYxOWY1ZGQ4MzEyMjhhMzhiMGMzMGJkMzg5MzQ5YzZjNmJmZDE3YmRmMmQ0M2ExMzQ1ZWIzMmVhZTY2YTA3MDIiLCJpdiI6ImExNDM1ZDA5OWM3Yzg1OWE0ZWRlYjFlM2MzZWQ2MmIwNzA1ZDEzMGU1YTM5MGFjYSJ9"
         },
         "id": "jmi0ybnmF"
     },
@@ -38,11 +38,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg3YmJlNmYwMDg4YWJiZWJiYzhhMTBiNmNmOTJiNWYwYTA3NTRkODczZDUwMDkxZDYyOThlMDBlNzVmNWU3OTQ2NGEyMGQzM2RhZjExOWM3OGQzMzRkYjdkMDJhZTliIiwiaXYiOiI0NWRiMmNkMWQzNDdiYjQ0NWY3MWViYWFjYTc2NzU1Y2I3MTFhMDk4OTdjMDg2MWUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzdmZGVjZGE2NGUyNWI5MjFjYmEzNDY0MjgxYjg0MmE1NzljZTJiMjU0NTk2YjVhOWE3ZjU1ZGU0MWUxNDg2NmQ3YTBkOTJhYWIyN2VmNGQ4NjQ2YWFiOTBiZGNjMjM2IiwiaXYiOiJjZjJhNzAwOGI2Zjg2M2NmNmIyYjkxZTgzYWIwYTI4MmI3Yjk2NjQ2MzFlM2JiNDgifQ=="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "6e666236aa0463b389b72ab9a4f6e181",
+    "lastVisitedAssetId": "dc4f238c33b754fd81d4303b56315396",
     "assets": {
         "6e666236aa0463b389b72ab9a4f6e181": {
             "format": "jpg",
@@ -52,6 +52,474 @@
             "size": {
                 "width": 4032,
                 "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2764731cc55bee6b1bcd4928c44a5160": {
+            "format": "jpg",
+            "id": "2764731cc55bee6b1bcd4928c44a5160",
+            "name": "toiletpapier_jur_10.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_10.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8f6eab556a13a739bd3e8cf956d1b0c": {
+            "format": "jpg",
+            "id": "b8f6eab556a13a739bd3e8cf956d1b0c",
+            "name": "toiletpapier_jur_10_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_10_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7dd089334d6f439428f1433c73302ba": {
+            "format": "jpg",
+            "id": "c7dd089334d6f439428f1433c73302ba",
+            "name": "toiletpapier_jur_10_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_10_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3e463dbd79573daedb2e376c49ece2a9": {
+            "format": "jpg",
+            "id": "3e463dbd79573daedb2e376c49ece2a9",
+            "name": "toiletpapier_jur_10_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_10_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c76f76fead0889350a347b1013a63ad6": {
+            "format": "jpg",
+            "id": "c76f76fead0889350a347b1013a63ad6",
+            "name": "toiletpapier_jur_1_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_1_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2e3988285d7c73b5c753d6a34882bcc": {
+            "format": "jpg",
+            "id": "f2e3988285d7c73b5c753d6a34882bcc",
+            "name": "toiletpapier_jur_1_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_1_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b56c378cd48c96f95e311a4c1eb0571": {
+            "format": "jpg",
+            "id": "9b56c378cd48c96f95e311a4c1eb0571",
+            "name": "toiletpapier_jur_1_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_1_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "792e9b8bd44b065985c4db09e5610a6c": {
+            "format": "jpg",
+            "id": "792e9b8bd44b065985c4db09e5610a6c",
+            "name": "toiletpapier_jur_2.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_2.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0140eea5908631c51205e4589ba2514b": {
+            "format": "jpg",
+            "id": "0140eea5908631c51205e4589ba2514b",
+            "name": "toiletpapier_jur_2_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_2_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "062ad7de08c5de67f0b02c107a05b15b": {
+            "format": "jpg",
+            "id": "062ad7de08c5de67f0b02c107a05b15b",
+            "name": "toiletpapier_jur_2_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_2_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b008bb3848db29f605de7727b5c60297": {
+            "format": "jpg",
+            "id": "b008bb3848db29f605de7727b5c60297",
+            "name": "toiletpapier_jur_2_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_2_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "652ee9dd2a290c2ea03d0a1790acb1e6": {
+            "format": "jpg",
+            "id": "652ee9dd2a290c2ea03d0a1790acb1e6",
+            "name": "toiletpapier_jur_3.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_3.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e20e2bf228010abf9f50fff251b28230": {
+            "format": "jpg",
+            "id": "e20e2bf228010abf9f50fff251b28230",
+            "name": "toiletpapier_jur_3_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_3_filter.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c571445041b8e5678eaf1cc8a403dcd4": {
+            "format": "jpg",
+            "id": "c571445041b8e5678eaf1cc8a403dcd4",
+            "name": "toiletpapier_jur_3_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_3_rot.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64801d8a214735ad9f0f2e774819278c": {
+            "format": "jpg",
+            "id": "64801d8a214735ad9f0f2e774819278c",
+            "name": "toiletpapier_jur_3_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_3_spiegel.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbdebb8a445cbac89915fbe463f68f12": {
+            "format": "jpg",
+            "id": "bbdebb8a445cbac89915fbe463f68f12",
+            "name": "toiletpapier_jur_4.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_4.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eff380b18bc9c16039a5d130deedf08e": {
+            "format": "jpg",
+            "id": "eff380b18bc9c16039a5d130deedf08e",
+            "name": "toiletpapier_jur_4_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_4_filter.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9abf5083cbe5ecee0a8be918b464d33f": {
+            "format": "jpg",
+            "id": "9abf5083cbe5ecee0a8be918b464d33f",
+            "name": "toiletpapier_jur_4_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_4_rot.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69b220e9ac4eec5bb80f54815667df1a": {
+            "format": "jpg",
+            "id": "69b220e9ac4eec5bb80f54815667df1a",
+            "name": "toiletpapier_jur_4_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_4_spiegel.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77339de7d887fd9f32493141e0edc76f": {
+            "format": "jpg",
+            "id": "77339de7d887fd9f32493141e0edc76f",
+            "name": "toiletpapier_jur_5.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_5.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8385c6afb2b05c8dfd521594552002bb": {
+            "format": "jpg",
+            "id": "8385c6afb2b05c8dfd521594552002bb",
+            "name": "toiletpapier_jur_5_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_5_filter.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4f3d9c9fda533f47a4ef9e026c5c3cb": {
+            "format": "jpg",
+            "id": "f4f3d9c9fda533f47a4ef9e026c5c3cb",
+            "name": "toiletpapier_jur_5_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_5_rot.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5393b23517708304f0ecfd12d340b0c2": {
+            "format": "jpg",
+            "id": "5393b23517708304f0ecfd12d340b0c2",
+            "name": "toiletpapier_jur_5_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_5_spiegel.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f31e1fe5af8940506b54559ca0ceaa9e": {
+            "format": "jpg",
+            "id": "f31e1fe5af8940506b54559ca0ceaa9e",
+            "name": "toiletpapier_jur_6.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_6.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78936268c87c9c790bf5215b10e1a71e": {
+            "format": "jpg",
+            "id": "78936268c87c9c790bf5215b10e1a71e",
+            "name": "toiletpapier_jur_6_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_6_filter.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d75ce2bd7c8302be46f53c4f9f66619": {
+            "format": "jpg",
+            "id": "6d75ce2bd7c8302be46f53c4f9f66619",
+            "name": "toiletpapier_jur_6_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_6_rot.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0bb3f829ecbb02f6c833595848679120": {
+            "format": "jpg",
+            "id": "0bb3f829ecbb02f6c833595848679120",
+            "name": "toiletpapier_jur_6_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_6_spiegel.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86586804f5aa9b6beed76fd510be568a": {
+            "format": "jpg",
+            "id": "86586804f5aa9b6beed76fd510be568a",
+            "name": "toiletpapier_jur_7.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_7.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0845fff6c9876cf49009405643cc4146": {
+            "format": "jpg",
+            "id": "0845fff6c9876cf49009405643cc4146",
+            "name": "toiletpapier_jur_7_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_7_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b310ac093efbc987543e42584fc9bbd1": {
+            "format": "jpg",
+            "id": "b310ac093efbc987543e42584fc9bbd1",
+            "name": "toiletpapier_jur_7_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_7_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a27156d5cd8c1e555a8d8e84a07e5bb": {
+            "format": "jpg",
+            "id": "3a27156d5cd8c1e555a8d8e84a07e5bb",
+            "name": "toiletpapier_jur_7_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_7_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "367f7db02f6fb3d0e46aa7a20e752580": {
+            "format": "jpg",
+            "id": "367f7db02f6fb3d0e46aa7a20e752580",
+            "name": "toiletpapier_jur_8.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_8.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bded2914026ea7309d18fada5c5b1b8b": {
+            "format": "jpg",
+            "id": "bded2914026ea7309d18fada5c5b1b8b",
+            "name": "toiletpapier_jur_8_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_8_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddb04b2ba3e78ea8bd1e82a1b43ecb72": {
+            "format": "jpg",
+            "id": "ddb04b2ba3e78ea8bd1e82a1b43ecb72",
+            "name": "toiletpapier_jur_8_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_8_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de750255ad1bc0160ef5d5041e1c312a": {
+            "format": "jpg",
+            "id": "de750255ad1bc0160ef5d5041e1c312a",
+            "name": "toiletpapier_jur_8_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_8_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6fd13cbaec1816b955fc9dfe171afccd": {
+            "format": "jpg",
+            "id": "6fd13cbaec1816b955fc9dfe171afccd",
+            "name": "toiletpapier_jur_9.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_9.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d01841c972bb6e948b33bc070d33078": {
+            "format": "jpg",
+            "id": "8d01841c972bb6e948b33bc070d33078",
+            "name": "toiletpapier_jur_9_filter.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_9_filter.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca7d5578c4821bf20b36e1dce3f41bb4": {
+            "format": "jpg",
+            "id": "ca7d5578c4821bf20b36e1dce3f41bb4",
+            "name": "toiletpapier_jur_9_rot.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_9_rot.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc4f238c33b754fd81d4303b56315396": {
+            "format": "jpg",
+            "id": "dc4f238c33b754fd81d4303b56315396",
+            "name": "toiletpapier_jur_9_spiegel.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_9_spiegel.jpg",
+            "size": {
+                "width": 3024,
+                "height": 4032
             },
             "state": 2,
             "type": 1

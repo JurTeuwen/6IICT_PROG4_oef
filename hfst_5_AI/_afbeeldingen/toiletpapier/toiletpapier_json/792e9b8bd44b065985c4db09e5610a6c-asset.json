@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "792e9b8bd44b065985c4db09e5610a6c",
+        "name": "toiletpapier_jur_2.jpg",
+        "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_2.jpg",
+        "size": {
+            "width": 4032,
+            "height": 3024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CqQXTgjcc",
+            "type": "RECTANGLE",
+            "tags": [
+                "toiletpapier"
+            ],
+            "boundingBox": {
+                "height": 2595.063911600316,
+                "width": 2512.8511729138963,
+                "left": 855.1914893617021,
+                "top": 282.3830059944315
+            },
+            "points": [
+                {
+                    "x": 855.1914893617021,
+                    "y": 282.3830059944315
+                },
+                {
+                    "x": 3368.0426622755986,
+                    "y": 282.3830059944315
+                },
+                {
+                    "x": 3368.0426622755986,
+                    "y": 2877.4469175947474
+                },
+                {
+                    "x": 855.1914893617021,
+                    "y": 2877.4469175947474
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
