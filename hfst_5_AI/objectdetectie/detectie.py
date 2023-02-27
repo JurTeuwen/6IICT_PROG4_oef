@@ -29,7 +29,7 @@ def open_camera(keuze_camera = 0):
             key = cv2.waitKey(1)
             if key == ord('s'): 
                 cv2.imwrite(filename='afbeelding_camera.jpg', img=afbeelding)
-                plt_imshow("Genomen foto", afbeelding)
+                # plt_imshow("Genomen foto", afbeelding)
             
             elif key == ord('q'):
                 cam.stop()
