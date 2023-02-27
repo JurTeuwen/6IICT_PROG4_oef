@@ -1,0 +1,60 @@
+{
+    "name": "toiletpapier",
+    "securityToken": "toiletpapier Token",
+    "sourceConnection": {
+        "name": "toiletpapier",
+        "description": "map met foto's van toiletpapier",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDc4NmNiYjAxYzAwM2I3NDdhOGQzYzVlNjIwNWYwMzY4OTUxNzc0ZjlmOTE4ZTAzZDhhN2RlOWJlMzNjYzZhYjdkZmRjYjgwMGIxMDg0ZDlhYzQ0NzAwZWM1YTRmY2NlZmIwZGVjNjM1YWExZWI4NmY4MjMxZWFhY2FhMTgxNGYwNjJlOTYzNGFlOTAwZDhkNjM4MmE4Y2I4NTg3NWQ1ODkzY2U3ZTRjZGNjZTEwNzVhNjZjNmM5NDZmMDU3NWViMWI1YjQ4NDRlN2RkZjM5NWE3OGFhMGI3MzdhYmI1Y2UiLCJpdiI6ImQxNjU0NWIzMmQ5NjI5OGI1MDM3ZGZmMmQ0MDVkOTQwOWViZjc1MTc0OWM3ZmZhMCJ9"
+        },
+        "id": "jmi0ybnmF"
+    },
+    "targetConnection": {
+        "name": "toiletpapier",
+        "description": "map met foto's van toiletpapier",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWVkMzcxODQxMjliYzU0ODFhOWMxMTg1YjIxYWRmZmVhNThjMWQxODY2ZTMxZWZjMTkyZjI0M2I4ZGI4YjJmN2QyOTRjZWM2MjQ2M2ExMmNjNDI2ODI3NTZmNDc0ZmE0ZWJlZTg1N2RiY2I5NTBiYmU1ZmY2ODQ5NDIwYzYyMTAyY2M3ZWJmZTgyMWMxOGIzZmJhZTI3NDM4YjE5Njc0MDFjYjgwZTE5NzQ4ODJhZTg0MmZmMzFkZWUzMGQ3ZWM1MzAyZjlkYjg4ZTcyYWRlMDY3NTVlZDU2MDQ5MWJmNmYiLCJpdiI6ImFiMjBlNzUxNDc2NTgyMDZhZjg1YjU5ZGM0ZWQ3YjU0YzQ2YjcyN2E0YmMyOWU1MyJ9"
+        },
+        "id": "jmi0ybnmF"
+    },
+    "description": "project om toiletpapier te taggen",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "toiletpapier",
+            "color": "#5db300"
+        }
+    ],
+    "id": "WhPmwl9KI",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg3YmJlNmYwMDg4YWJiZWJiYzhhMTBiNmNmOTJiNWYwYTA3NTRkODczZDUwMDkxZDYyOThlMDBlNzVmNWU3OTQ2NGEyMGQzM2RhZjExOWM3OGQzMzRkYjdkMDJhZTliIiwiaXYiOiI0NWRiMmNkMWQzNDdiYjQ0NWY3MWViYWFjYTc2NzU1Y2I3MTFhMDk4OTdjMDg2MWUifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "6e666236aa0463b389b72ab9a4f6e181",
+    "assets": {
+        "6e666236aa0463b389b72ab9a4f6e181": {
+            "format": "jpg",
+            "id": "6e666236aa0463b389b72ab9a4f6e181",
+            "name": "toiletpapier_jur_1.jpg",
+            "path": "file:C:/Users/TeJu171204/Documents/6IICT_PROG4_oef/hfst_5_AI/_afbeeldingen/toiletpapier/toiletpapier_jur_1.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
