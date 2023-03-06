@@ -180,11 +180,17 @@ yolov3_tiny.weights
 yolov3.weights
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 89fc7c1a4619a09fd8c69f54614826d9d439308c
+=======
+yolov3_tiny.weights
+yolov3-tiny-custom.weights
+>>>>>>> 26bfb7e9dd06a2b13d5dde39c7385a490a7c71bf
+<<<<<<< HEAD
 =======
 yolov3_tiny.weights
 yolov3-tiny-custom.weights
 >>>>>>> 26bfb7e9dd06a2b13d5dde39c7385a490a7c71bf
 =======
-yolov3_tiny.weights
-yolov3-tiny-custom.weights
->>>>>>> 26bfb7e9dd06a2b13d5dde39c7385a490a7c71bf
+>>>>>>> 89fc7c1a4619a09fd8c69f54614826d9d439308c
