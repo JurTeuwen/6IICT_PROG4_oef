@@ -178,3 +178,8 @@ hfst_2/oefen_mee/venv
 hfst_2/taak/matplotlib
 yolov3_tiny.weights
 yolov3.weights
+<<<<<<< HEAD
+=======
+yolov3_tiny.weights
+yolov3-tiny-custom.weights
+>>>>>>> 26bfb7e9dd06a2b13d5dde39c7385a490a7c71bf
